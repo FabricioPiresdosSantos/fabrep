@@ -1,23 +1,18 @@
-
-
-
-
-And
-And fads fads add add ads git clone git@github.com:wedsonlima/git-presentation.git
-git remote -v # pra onde o afsdfasd fadsf adsf adsf a respositório está apontando
-git branch # listar os branchs existentes aseo asdf adsf 
-git branch 
+git clone git@github.com:wedsonlima/git-presentation.git
+git remote -v # pra onde o respositório está apontando
+git branch # listar os branchs existentes
+git branch tarefa1
 git checkout tarefa1
 echo 'arquivo 1' > file1.txt
-git status tarefa 1
-git add . And add fads ads ads 
+git status
+git add .
 git commit -m "Commitando arquivo file1.txt"
 
 # necessário fazer uma outra tarefa urgente
 
-git checkout master and fads ads sf a
+git checkout master
 git checkout -b tarefa2 # fazer a cópia do master
-git log --oneline --decorate #  asdfadsf asdf ads asdf adsf adolhada rápida no log
+git log --oneline --decorate # olhada rápida no log
 echo 'arquivo 2' > file2.txt
 git add .
 git commit -m "Commitando aqruivo file2.txt"
