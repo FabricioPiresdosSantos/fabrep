@@ -10,7 +10,6 @@ git remote -v
 git branch tarefa1
 git checkout tarefa1
 echo 'arquivo 1' > file1.txt
-git status
 git status # pra onde o respositório está apontando
 git branch # listar os branchs existentes
 git add !!!!!.
