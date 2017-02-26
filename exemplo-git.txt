@@ -1,11 +1,19 @@
+Teste de commit no meu branch e ainda não no master.
+
+
+
 git clone git@github.com:wedsonlima/git-presentation.git
-git remote -v # pra onde o respositório está apontando
-git branch # listar os branchs existentes
+
+Outro teste
+
+git remote -v 
 git branch tarefa1
 git checkout tarefa1
 echo 'arquivo 1' > file1.txt
 git status
-git add .
+git status # pra onde o respositório está apontando
+git branch # listar os branchs existentes
+git add !!!!!.
 git commit -m "Commitando arquivo file1.txt"
 
 # necessário fazer uma outra tarefa urgente
